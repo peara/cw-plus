@@ -349,6 +349,7 @@ dependencies = [
  "cw-utils",
  "cw2 0.16.0",
  "cw20",
+ "cw22",
  "schemars",
  "semver",
  "serde",
@@ -374,7 +375,7 @@ dependencies = [
 
 [[package]]
 name = "cw22"
-version = "1.0.0"
+version = "0.1.0"
 dependencies = [
  "cosmwasm-schema",
  "cosmwasm-std",
